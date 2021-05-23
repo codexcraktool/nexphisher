@@ -58,6 +58,6 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 #### > LOCALXPOSE (https://localxpose.io/)
 
 ## Find Me on :
-[![Instagram (https://www.instagram.com/nimse_abhishek/)
+[! Instagram (https://www.instagram.com/nimse_abhishek/)
 
 
